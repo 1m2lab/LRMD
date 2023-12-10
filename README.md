@@ -7,4 +7,6 @@ This will give relatively accurate tool for this project. Sensor has arduino imp
 
 # LRMD unit
 Unit are based on Raspberry Pi Zero 2w and Waveshare LC29H(BS) RTK Hat, with GY-9250 / GY-6500 sensor (for Z-axis corrections and Magnetic Heading for device) and ZeroCam NOIR Camera. Device are going to be designed for 2 purposes: land-based surveying and drone-based surveying. These all will be run on Dietpi v8.24 64bit (bookworm) Linux-distro. There is more tu come later :)
+
+EDIT 20231210: Distro swapped to RaspiOS bullseye 64bit due inop of camera in Dietpi.
  
